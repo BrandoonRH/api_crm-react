@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nameCliente": "Melany Nahomy Ramirez Hernandéz ",
+      "empresaCliente": "Bicuteria Doña Tere ",
+      "emailCliente": "admin2@admin.com",
+      "telefonoCliente": "3396587815",
+      "notasCliente": "Fusce non fringilla magna, eget viverra arcu. Vestibulum blandit nunc mauris, vel hendrerit ipsum tempus a. Quisque ultrices accumsan ante convallis aliquet. Cras varius mattis suscipit. Curabitur volutpat pharetra pharetra. Sed ut tempor nulla. Maecenas sit amet quam id lorem malesuada consequat nec quis mauris. Phasellus finibus turpis dui, in dictum enim gravida vel. Suspendisse quis elit lectus. Sed sollicitudin purus in neque ullamcorper, ut rutrum magna volutpat. Donec fringilla ut justo nec maximus. Curabitur mi erat, dapibus a dolor non, porttitor vulputate lacus. Suspendisse blandit malesuada risus ut luctus. Cras in tincidunt nisl. Etiam enim libero, pretium at pulvinar quis, sodales ac diam. Ut in tristique est.",
+      "id": 2
+    },
+    {
+      "nameCliente": "Felipe Morando Aguayo ",
+      "empresaCliente": "CCD",
+      "emailCliente": "feli@admin.com",
+      "telefonoCliente": "3356987125",
+      "notasCliente": "Fusce non fringilla magna, eget viverra arcu. Vestibulum blandit nunc mauris, vel hendrerit ipsum tempus a. Quisque ultrices accumsan ante convallis aliquet. Cras varius mattis suscipit. Curabitur volutpat pharetra pharetra. Sed ut tempor nulla. Maecenas sit amet quam id lorem malesuada consequat nec quis mauris. Phasellus finibus turpis dui, in dictum enim gravida vel. Suspendisse quis elit lectus. Sed sollicitudin purus in neque ullamcorper, ut rutrum magna volutpat. Donec fringilla ut justo nec maximus. Curabitur mi erat, dapibus a dolor non, porttitor vulputate lacus. Suspendisse blandit malesuada risus ut luctus. Cras in tincidunt nisl. Etiam enim libero, pretium at pulvinar quis, sodales ac diam. Ut in tristique est.",
+      "id": 3
+    },
+    {
+      "nameCliente": "Hugo Leonel Davalos López ",
+      "empresaCliente": "CCD ",
+      "emailCliente": "h@admin.com",
+      "telefonoCliente": "3356921548",
+      "notasCliente": "Fusce non fringilla magna, eget viverra arcu. Vestibulum blandit nunc mauris, vel hendrerit ipsum tempus a. Quisque ultrices accumsan ante convallis aliquet. Cras varius mattis suscipit. Curabitur volutpat pharetra pharetra. Sed ut tempor nulla. Maecenas sit amet quam id lorem malesuada consequat nec quis mauris. Phasellus finibus turpis dui, in dictum enim gravida vel. Suspendisse quis elit lectus. Sed sollicitudin purus in neque ullamcorper, ut rutrum magna volutpat. Donec fringilla ut justo nec maximus. Curabitur mi erat, dapibus a dolor non, porttitor vulputate lacus. Suspendisse blandit malesuada risus ut luctus. Cras in tincidunt nisl. Etiam enim libero, pretium at pulvinar quis, sodales ac diam. Ut in tristique est.",
+      "id": 4
+    },
+    {
+      "nameCliente": "Brandon Eduardo Ramirez Hernandez ",
+      "empresaCliente": "Ciudad Creativa Digital ",
+      "emailCliente": "admin@admin.com",
+      "telefonoCliente": "3339995236",
+      "notasCliente": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer facilisis, magna sit amet porta cursus, orci justo rhoncus nibh, eu condimentum enim massa sit amet orci. Nam facilisis est sed faucibus interdum. Integer eu libero et nisi molestie pretium id vitae leo. Nam elementum eu justo quis sodales. Curabitur rutrum diam fringilla aliquam pellentesque. Quisque nec nulla sed odio sollicitudin accumsan. Cras quis mattis arcu, sit amet malesuada lacus. Sed molestie semper viverra.",
+      "id": 5
+    },
+    {
+      "nameCliente": "Luz Alondra MIramontes Navarrete ",
+      "empresaCliente": "Ciudad Creativa Digital ",
+      "emailCliente": "luzalo.miramontes@ccd.com",
+      "telefonoCliente": "3359854872",
+      "notasCliente": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer facilisis, magna sit amet porta cursus, orci justo rhoncus nibh, eu condimentum enim massa sit amet orci. Nam facilisis est sed faucibus interdum. Integer eu libero et nisi molestie pretium id vitae leo. Nam elementum eu justo quis sodales. Curabitur rutrum diam fringilla aliquam pellentesque. Quisque nec nulla sed odio sollicitudin accumsan. Cras quis mattis arcu, sit amet malesuada lacus. Sed molestie semper viverra.",
+      "id": 6
+    },
+    {
+      "nameCliente": "Carlos ALberto Flores ",
+      "empresaCliente": "PEMEX ",
+      "emailCliente": "carlos@gmail.com",
+      "telefonoCliente": "3356987514",
+      "notasCliente": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer facilisis, magna sit amet porta cursus, orci justo rhoncus nibh, eu condimentum enim massa sit amet orci. Nam facilisis est sed faucibus interdum. Integer eu libero et nisi molestie pretium id vitae leo. Nam elementum eu justo quis sodales. Curabitur rutrum diam fringilla aliquam pellentesque. Quisque nec nulla sed odio sollicitudin accumsan. Cras quis mattis arcu, sit amet malesuada lacus. Sed molestie semper viverra.",
+      "id": 7
+    }
+  ]
+}
